@@ -1,0 +1,5 @@
+0 5 * * * /opt/light-timer/start.sh
+0 9 * * * /opt/light-timer/stop.sh
+
+0 16 * * * /opt/light-timer/start.sh
+30 20 * * * /opt/light-timer/stop.sh
